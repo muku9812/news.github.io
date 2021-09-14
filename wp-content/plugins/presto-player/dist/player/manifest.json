@@ -1,0 +1,28 @@
+{
+  "global.js": "player/global.js",
+  "global.js.map": "global.60479f87dc6fc5df2700.hot-update.js.map",
+  "player/global.js.map": "player/global.js.map",
+  "player/vendors--presto-player--global.js.map": "player/vendors--presto-player--global.js.map",
+  "runtime.js": "player/runtime.js",
+  "runtime.js.map": "player/runtime.js.map",
+  "vendors--presto-player--global.js": "player/vendors--presto-player--global.js",
+  "vendors--presto-player--global.js.map": "vendors--presto-player--global.60479f87dc6fc5df2700.hot-update.js.map",
+  "wpackioEp": {
+    "global": {
+      "assets": {
+        "js": [
+          "player/runtime.js",
+          "player/vendors--presto-player--global.js",
+          "player/global.js"
+        ],
+        "js.map": [
+          "player/runtime.js.map",
+          "player/vendors--presto-player--global.js.map",
+          "vendors--presto-player--global.60479f87dc6fc5df2700.hot-update.js.map",
+          "player/global.js.map",
+          "global.60479f87dc6fc5df2700.hot-update.js.map"
+        ]
+      }
+    }
+  }
+}

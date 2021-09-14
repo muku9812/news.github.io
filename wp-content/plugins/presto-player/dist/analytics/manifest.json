@@ -1,0 +1,42 @@
+{
+  "admin.css": "analytics/admin-866190a9.css",
+  "admin.css.map": "analytics/admin-866190a9.css.map",
+  "admin.js": "analytics/admin-5ec129f4.js",
+  "admin.js.map": "analytics/admin-5ec129f4.js.map",
+  "analytics/0-3f75c1ce.js": "analytics/0-3f75c1ce.js",
+  "analytics/0-3f75c1ce.js.map": "analytics/0-3f75c1ce.js.map",
+  "analytics/4-9ff758a9.js": "analytics/4-9ff758a9.js",
+  "analytics/4-9ff758a9.js.map": "analytics/4-9ff758a9.js.map",
+  "analytics/5-f9cd8bb2.js": "analytics/5-f9cd8bb2.js",
+  "analytics/5-f9cd8bb2.js.map": "analytics/5-f9cd8bb2.js.map",
+  "analytics/6-952599ce.js": "analytics/6-952599ce.js",
+  "analytics/6-952599ce.js.map": "analytics/6-952599ce.js.map",
+  "analytics/7-c4380ef8.js": "analytics/7-c4380ef8.js",
+  "analytics/7-c4380ef8.js.map": "analytics/7-c4380ef8.js.map",
+  "runtime.js": "analytics/runtime-e30b480e.js",
+  "runtime.js.map": "analytics/runtime-e30b480e.js.map",
+  "vendors--presto-player--admin.js": "analytics/vendors--presto-player--admin-f2ed7da8.js",
+  "vendors--presto-player--admin.js.map": "analytics/vendors--presto-player--admin-f2ed7da8.js.map",
+  "wpackioEp": {
+    "admin": {
+      "assets": {
+        "js": [
+          "analytics/runtime-e30b480e.js",
+          "analytics/vendors--presto-player--admin-f2ed7da8.js",
+          "analytics/admin-5ec129f4.js"
+        ],
+        "js.map": [
+          "analytics/runtime-e30b480e.js.map",
+          "analytics/vendors--presto-player--admin-f2ed7da8.js.map",
+          "analytics/admin-5ec129f4.js.map"
+        ],
+        "css": [
+          "analytics/admin-866190a9.css"
+        ],
+        "css.map": [
+          "analytics/admin-866190a9.css.map"
+        ]
+      }
+    }
+  }
+}
